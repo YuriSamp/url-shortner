@@ -1,0 +1,19 @@
+node_modules
+  
+# Logs
+logs
+*.log
+   
+# local env files
+.env
+.env.*
+!.env.example
+
+# testing
+/coverage
+
+# production
+dist
+
+# misc
+*.pem
